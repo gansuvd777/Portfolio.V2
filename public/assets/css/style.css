@@ -338,13 +338,13 @@ button:focus,
 .portfolio-item {
     position      : relative;
     display       : block;
-    margin-bottom : 30px;
+    margin-bottom : 35px;
     }
 
 .portfolio-item .portfolio-thumb img {
-    height    : 250px;
+    height    : auto;
     display   : block;
-    width     : 400px;
+    width     : 100%;
     opacity   : 0.7;
     }
 .portfolio-item .portfolio-thumb img:hover {
