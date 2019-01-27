@@ -1,7 +1,7 @@
 {
     "development": {
-      "username": "pearloyun",
-      "password": "PearlOyun7",
+      "username": "root",
+      "password": "Esen2012",
       "database": "portfolioV2",
       "host": "127.0.0.1",
       "port": 3306,
@@ -10,7 +10,7 @@
     "test": {
       "username": "root",
       "password": null,
-      "database": "ezeyd8uldwiuq80t",
+      "database": "portfolioV2",
       "host": "127.0.0.1",
       "port": 3306,
       "dialect": "mysql"
