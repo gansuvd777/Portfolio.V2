@@ -2,7 +2,7 @@ $(function ($) {
 
     'use strict';
     (function () {
-        $('#preloader').delay(300).fadeOut('slow');
+        $('#preloader').delay(800).fadeOut('slow');
     }());
 
 }); 
